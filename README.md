@@ -1,2 +1,3 @@
-# Go XML Mapping Engine
-GUI for mapping sample XML file and processing new incoming XML files via watch folder.
+# XML to DICOM Mapping Engine
+GUI for mapping sample XML file.
+Process new incoming XML files via watch folder.
